@@ -22,7 +22,7 @@
 #### 🛡️ Encryption Toolkit
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,rust,cpp,linux,docker,kubernetes,aws" />
+  <img src="https://skillicons.dev/icons?i=python,rust,cpp,linux,docker,c" />
 </div>
 
 ### 🔒 Specialized Cryptographic Domains
@@ -35,8 +35,8 @@
 ### 🏆 Encryption Performance Metrics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&langs_count=7&theme=dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=crypt0-wizard&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=crypt0-wizard&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
 ### 🔮 Cryptographic Transmission Protocols
@@ -56,7 +56,6 @@ print(generate_encryption_mantra())
 
 ### 🌈 Secure Communication Channels
 
-- 📡 **Encrypted Frequency**: [LinkedIn](https://linkedin.com/in/yourusername)
 - 🛰️ **Secure Broadcast**: [Twitter](https://twitter.com/yourusername)
 - 📧 **Key Exchange Point**: `gpg --encrypt secrets.txt`
 
@@ -68,4 +67,4 @@ print(generate_encryption_mantra())
 
 ⚡ **Powered by Curiosity, Caffeine, and Cryptographic Challenges** ⚡
 
-![Visitor Cipher](https://visitor-badge.laobi.icu/badge?page_id=yourusername.yourusername)
+![Visitor Cipher](https://visitor-badge.laobi.icu/badge?page_id=crypt0-wizard.crypt0-wizard)
