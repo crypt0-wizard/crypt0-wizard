@@ -1,4 +1,4 @@
-# 🔐 Cryptographic Architect | Security Alchemist | Cipher Conjurer
+# 🔐 Cryptographic Architect | Security Alchemist 
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F700&center=true&width=700&lines=Decrypting+the+Impossible+%7C+Encrypting+the+Unimaginable+🔒;Where+Algorithms+Meet+Artistry+%7C+Security+is+an+Equation+✨;Breaking+Barriers%2C+Not+Encryptions+🚀" alt="Cryptographic Typing SVG" />
