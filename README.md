@@ -22,7 +22,7 @@
 #### 🛡️ Encryption Toolkit
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,rust,cpp,linux,docker,c" />
+  <img src="https://skillicons.dev/icons?i=python,rust,cpp,linux,docker,c,ruby,c#" />
 </div>
 
 ### 🔒 Specialized Cryptographic Domains
