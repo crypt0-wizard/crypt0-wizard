@@ -1,1 +1,1 @@
-## 🔮 Predicting the future through predictive algorithms
+🔮 Predicting the future through predictive algorithms
